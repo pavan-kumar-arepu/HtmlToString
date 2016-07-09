@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>88B7FD7E-7E6C-4763-B49E-7DA51A6A1208</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HtmlToString</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1e50c2f4-9477-40be-903c-33945bd74c72++7386</key>
+		<string>http://172.25.69.100/HydRepoNew/Projects/LatestUtility/HomeKitCatalog</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>New Desktop/iOS Sprinters Course Details/Daily Sessions/HTML to String/HtmlToString/HtmlToString.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1e50c2f4-9477-40be-903c-33945bd74c72++7386</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1e50c2f4-9477-40be-903c-33945bd74c72++7386</key>
+		<string>http://172.25.69.100/HydRepoNew</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://172.25.69.100/HydRepoNew/Projects/LatestUtility/HomeKitCatalog/New%20Desktop/iOS%20Sprinters%20Course%20Details/Daily%20Sessions/HTML%20to%20String/HtmlToString/HtmlToString.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1e50c2f4-9477-40be-903c-33945bd74c72++7386</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1e50c2f4-9477-40be-903c-33945bd74c72++7386</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Desktop</string>
+		</dict>
+	</array>
+</dict>
+</plist>
